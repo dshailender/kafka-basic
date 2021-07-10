@@ -1,2 +1,6 @@
 #kafka-basics
 kafka basic tutorial code
+1. producer
+2. consumer
+3. twitter client
+4. elastic search
