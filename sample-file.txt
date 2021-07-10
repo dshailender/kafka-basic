@@ -5,4 +5,4 @@ kafka basic tutorial code
 3. twitter client
 4. elastic search
 5. kafka-connect
-
+6. apache avro
