@@ -4,3 +4,5 @@ kafka basic tutorial code
 2. consumer
 3. twitter client
 4. elastic search
+5. kafka-connect
+
